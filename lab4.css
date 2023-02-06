@@ -807,17 +807,17 @@ div.hijo1-4 #columna12fila15-16 {
 
 div.hijo3 #columna25fila2 {
     grid-area: 2 / 25 / 3 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo3 #columna26-29fila3 {
     grid-area: 3 / 26 / 4 / 30;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo3 #columna230fila1-2 {
     grid-area: 1 / 30 / 3 / 31;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo3 #columna24fila2-4 {
@@ -979,62 +979,62 @@ div.hijo4 #columna22-24fila27 {
 
 div.hijo4 #columna21-26fila21 {
     grid-area: 21 / 20 / 21 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna22-27fila22 {
     grid-area: 22 / 21 / 22 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna23-27fila23 {
     grid-area: 23 / 22 / 23 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna24-27fila24 {
     grid-area: 24 / 23 / 24 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna24-27fila25 {
     grid-area: 25 / 23 / 25 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna24-28fila26 {
     grid-area: 26 / 23 / 26 / 28;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna27-29fila27 {
     grid-area: 27 / 27 / 27 / 29;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna28-30fila28 {
     grid-area: 28 / 28 / 28 / 30;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna29-30fila29 {
     grid-area: 29 / 28 / 29 / 30;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna29-30fila30 {
     grid-area: 30 / 28 / 30 / 30;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna29-30fila31 {
     grid-area: 31 / 28 / 31 / 30;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna29-31fila32 {
     grid-area: 32 / 28 / 32 / 31;
-    background-color: #2b1417;
+    background-color: #1b050c;
 }
 
 div.hijo4 #columna1fila29 {
@@ -1186,111 +1186,466 @@ div.hijo4 #columna1fila28 {
 
   div.hijo4 #columna16-26fila1 {
     grid-area: 1 / 16 / 2 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna16-26fila2 {
     grid-area: 2 / 16 / 3 / 27;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna16-25fila3 {
     grid-area: 3 / 16 / 4 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna16-25fila4 {
     grid-area: 4 / 16 / 5 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna15-25fila5 {
     grid-area: 5 / 15 / 6 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna15-25fila6 {
     grid-area: 6 / 15 / 7 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna14-25fila7 {
     grid-area: 7 / 14 / 8 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna14-25fila8 {
     grid-area: 8 / 14 / 9 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna14-25fila9 {
     grid-area: 9 / 14 / 10 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna13-25fila10 {
     grid-area: 10 / 13 / 11 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna12-25fila11 {
     grid-area: 11 / 12 / 12 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna11-25fila12 {
     grid-area: 12 / 11 / 13 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna11-24fila13 {
     grid-area: 13 / 11 / 14 / 25;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna10-25fila14 {
     grid-area: 14 / 10 / 15 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna1-25fila15 {
     grid-area: 15 / 1 / 16 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna1-25fila16 {
     grid-area: 16 / 1 / 17 / 26;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
 
   div.hijo4 #columna15-25fila17 {
     grid-column: 15 / 26;
     grid-row: 17 / 18;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna14-25fila18 {
     grid-column: 14 / 26;
     grid-row: 18 / 19;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna12-25fila19 {
     grid-column: 12 / 26;
     grid-row: 19 / 20;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna20-25fila20 {
     grid-column: 19 / 26;
     grid-row: 20 / 21;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
   
   div.hijo4 #columna19-25fila21 {
     grid-column: 19 / 26;
     grid-row: 21 / 22;
-    background-color: #2b1417;
+    background-color: #1b050c;
   }
+
+  div.hijo4 #columna1fila19-20 {
+    grid-area: 19 / 1 / 21 / 2;
+    background-color: #1b050c;
+  }
+  
+  div.hijo4 #columna2fila17-19 {
+    grid-area: 17 / 2 / 20 / 3;
+    background-color: #1b050c;
+  }
+  
+  div.hijo4 #columna4fila20 {
+    grid-area: 20 / 4 / 21 / 5;
+    background-color: #1b050c;
+  }
+  
+  div.hijo4 #columna5-6fila18-20 {
+    grid-area: 18 / 5 / 21 / 7;
+    background-color: #1b050c;
+  }
+  
+  div.hijo4 #columna7fila17-18 {
+    grid-area: 17 / 7 / 19 / 8;
+    background-color: #1b050c;
+  }
+  
+  div.hijo4 #columna8-10fila17 {
+    grid-area: 17 / 8 / 18 / 12;
+    background-color: #1b050c;
+  }
+
+div.hijo4 #columna2fila10-11 {
+    grid-area: 10 / 2 / 12 / 3;
+    background-color: #281315;
+}
+
+div.hijo4 #columna3fila11 {
+    grid-area: 11 / 3 / 12 / 4;
+    background-color: #281315;
+}
+
+div.hijo4 #columna1-15fila1-14 {
+    grid-area: 1 / 1 / 15 / 16;
+    background-color: #ffebda;
+}
+
+div.hijo4 #columna10-13fila1-2 {
+    grid-area: 1 / 10 / 3 / 15;
+    background-color: #004268;
+}
+
+div.hijo4 #columna8-10fila5-6 {
+    grid-area: 5 / 8 / 7 / 11;
+    background-color: #eeb19f;
+}
+
+div.hijo4 #columna7fila1 {
+    grid-area: 1 / 7 / 2 / 8;
+    background-color: #1b050c;
+}
+  
+div.hijo4 #columna8fila2 {
+    grid-area: 2 / 8 / 3 / 9;
+    background-color: #1b050c;
+}
+  
+div.hijo4 #columna8-13fila3 {
+    grid-area: 3 / 8 / 4 / 14;
+    background-color: #1b050c;
+}
+  
+div.hijo4 #columna13fila2-3 {
+    grid-area: 2 / 13 / 4 / 14;
+    background-color: #1b050c;
+}
+
+div.hijo4 #columna8-9fila1-2 {
+    grid-area: 1 / 8 / 3 / 10;
+    background-color: white;
+}
+
+div.hijo4 #columna8-10fila14 {
+    background-color: #eeb19f;
+    grid-area: 14/7/14/10;
+}
+  
+div.hijo4 #columna9-10fila13 {
+    background-color: #eeb19f;
+    grid-area: 13/8/13/11;
+}
+  
+div.hijo4 #columna10fila12 {
+    background-color: #eeb19f;
+    grid-area: 12/10/12/11;
+}
+  
+div.hijo4 #columna11fila11 {
+    background-color: #eeb19f;
+    grid-area: 11/11/11/11;
+}
+  
+div.hijo4 #columna12fila10 {
+    background-color: #eeb19f;
+    grid-area: 10/12/10/12;
+}
+  
+div.hijo4 #columna13fila9 {
+    background-color: #eeb19f;
+    grid-area: 9/13/9/13;
+}
+
+div.hijo4 #columna6-7fila14 {
+    grid-area: 14 / 5 / 14 / 7;
+    background-color: #1b050c;
+}
+
+div.hijo4 #columna7fila13 {
+    grid-area: 13 / 7 / 13 / 7;
+    background-color: #1b050c;
+}
+
+div.hijo2 {
+    display: grid;
+    grid-template-columns: repeat(32, 1px);
+    grid-template-rows: repeat(32, 1px);
+}
+
+div.hijo2 #columna1-15fila18-31 {
+    grid-area: 18 / 1 / 33 / 16;
+    background-color: #ffebda;
+}
+
+div.hijo2 #columna9-14fila29-32 {
+    grid-area: 29 / 9 / 33 / 15;
+    background-color: #004268;
+}
+
+div.hijo2 #columna12fila31-32 {
+    grid-area: 31 / 12 / 33 / 13;
+    background-color: #000000;
+}
+
+div.hijo2 #columna6-8fila29-30 {
+    grid-area: 29 / 6 / 31 / 9;
+    background-color: #1b050c;
+}
+
+div.hijo2 #columna7fila31-32 {
+    grid-area: 31 / 7 / 33 / 8;
+    background-color: #1b050c;
+}
+
+div.hijo2 #columna9-14fila28-29 {
+    grid-area: 28 / 9 / 30 / 15;
+    background-color: #000000;
+}
+
+div.hijo2 #columna14fila29 {
+    grid-area: 29 / 14 / 30 / 15;
+    background-color: #000000;
+}
+
+div.hijo2 #columna15fila30-32 {
+    grid-area: 30 / 15 / 33 / 16;
+    background-color: #000000;
+}
+
+div.hijo4 #columna14-15fila1 {
+    grid-area: 1 / 14 / 2 / 16;
+    background-color: #000000;
+}
+
+div.hijo4 #columna14fila2 {
+    grid-area: 2 / 14 / 3 / 15;
+    background-color: #000000;
+}
+
+div.hijo2 #columna9-14fila28 {
+    grid-area: 28 / 9 / 29 / 15;
+    background-color: #000000;
+}
+
+div.hijo4 #columna9fila1 {
+    grid-area: 1 / 9 / 2 / 10;
+    background-color: #004268;
+}
+
+.hijo2 #columna1fila4-28 {
+    grid-area: 4 / 1 / 29 / 2;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna2fila3-28 {
+    grid-area: 3 / 2 / 29 / 3;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna3fila3-28 {
+    grid-area: 3 / 3 / 29 / 4;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna4fila3-28 {
+    grid-area: 3 / 4 / 29 / 5;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna5fila2-26 {
+    grid-area: 2 / 5 / 27 / 6;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna6fila2-17 {
+    grid-area: 2 / 6 / 18 / 7;
+    background-color: #1b050c;
+}
+
+.hijo2 #columna7fila2-22 {
+    grid-area: 2 / 7 / 23 / 8;
+    background-color: #1b050c;
+}
+
+.hijo2 #columna8fila2-27 {
+    grid-area: 2 / 8 / 28 / 9;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna9fila2-27 {
+    grid-area: 2 / 9 / 28 / 10;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna10-12fila3-27 {
+    grid-area: 3 / 10 / 28 / 13;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna13-14fila4-27 {
+    grid-area: 4 / 13 / 28 / 15;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna15fila5-29 {
+    grid-area: 5 / 15 / 30 / 16;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna16-24fila6-32 {
+    grid-area: 6 / 16 / 33 / 25;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna25-26fila5-32 {
+    grid-area: 5 / 25 / 33 / 27;
+    background-color: #1b050c;
+}
+  
+.hijo2 #columna27fila5-29 {
+    grid-area: 5 / 27 / 30 / 28;
+    background-color: #1b050c;
+}
+
+.hijo2 #columna10-13fila29 {
+    grid-area: 29 / 9 / 30 / 14;
+    background-color: #001c2c;
+}
+  .hijo2 #columna16-18fila11-12 {
+    grid-area: 11 / 16 / 13 / 19;
+    background-color: #fab9a6; 
+}
+
+.hijo2 #columna18fila10 {
+    grid-area: 10 / 18 / 11 / 19;
+    background-color: #fab9a6;
+}
+
+.hijo2 #columna19fila12 {
+    grid-area: 12 / 19 / 13 / 20;
+    background-color: #fab9a6;
+}
+
+div.hijo2 #columna22fila10-11{
+  grid-area: 10 / 22 / 11 / 22;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna23fila9-14{
+  grid-area: 9 / 23 / 14 / 23;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna24fila8-16{
+  grid-area: 8 / 24 / 16 / 24;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna25fila8-17{
+  grid-area: 8 / 25 / 17 / 25;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna26fila6-8{
+  grid-area: 6 / 26 / 8 / 26;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna27fila6-7{
+  grid-area: 6 / 27 / 7 / 27;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna27fila10-17{
+  grid-area: 10 / 27 / 17 / 27;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna28fila9-15{
+  grid-area: 9 / 28 / 15 / 28;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna29fila5-13{
+  grid-area: 5 / 29 / 13 / 29;
+  background-color: #fab9a6;
+}
+
+div.hijo2 #columna26fila9-19{
+  grid-area: 8 / 26 / 17 / 26;
+  background-color: white;
+}
+
+div.hijo2 #columna27fila8-9 {
+  grid-area: 7 / 27 / 10 / 27;
+  background-color: white;
+}
+
+div.hijo2 #columna28fila6-8 {
+  grid-area: 5 / 28 / 9 / 28;
+  background-color: white;
+}
+
+div.hijo2 #columna28fila16-17 {
+  grid-area: 15 / 28 / 18 / 28;
+  background-color: #1b050c;
+}
+
+div.hijo2 #columna29fila14-17 {
+  grid-area: 13 / 29 / 16 / 29;
+  background-color: #1b050c;
+}
+
+div.hijo2 #columna30fila5-16 {
+  grid-area: 5 / 30 / 14 / 30;
+  background-color: #1b050c;
+}
   
