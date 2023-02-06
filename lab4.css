@@ -1,8 +1,8 @@
 div.padre {
 
     display: inline-grid;
-    grid-template-columns: repeat(2, 32px);
-    grid-template-rows: repeat(2, 32px);
+    grid-template-columns: repeat(2, 128px);
+    grid-template-rows: repeat(2, 128px);
     border: black solid 1px;
     background-color: skyblue;
     
@@ -10,29 +10,29 @@ div.padre {
 
 div.hijo1 {
     display: inline-grid;
-    grid-template-columns: repeat(2, 16px);
-    grid-template-rows: repeat(2, 16px);
+    grid-template-columns: repeat(2, 64px);
+    grid-template-rows: repeat(2, 64px);
 
 }
 
 div.hijo1-1 {
     display: grid;
-    grid-template-columns: repeat(1, 16px);
-    grid-template-rows: repeat(1, 16px);
+    grid-template-columns: repeat(1, 64px);
+    grid-template-rows: repeat(1, 64px);
     background-color: skyblue;
 }
 
 div.hijo1-2 {
     display: grid;
-    grid-template-columns: repeat(16, 1px);
-    grid-template-rows: repeat(16, 1px);
+    grid-template-columns: repeat(16, 4px);
+    grid-template-rows: repeat(16, 4px);
     
 }
 
 div.hijo1-1 {
     display: grid;
-    grid-template-columns: repeat(1, 16px);
-    grid-template-rows: repeat(1, 16px);
+    grid-template-columns: repeat(1, 64px);
+    grid-template-rows: repeat(1, 64px);
     background-color: skyblue;
 }
 
@@ -217,8 +217,8 @@ div.hijo1-3 {
 
 div.hijo1-4 {
     display: grid;
-    grid-template-columns: repeat(16, 1px);
-    grid-template-rows: repeat(16, 1px);
+    grid-template-columns: repeat(16, 4px);
+    grid-template-rows: repeat(16, 4px);
     
 }
 
@@ -329,8 +329,8 @@ div.hijo1-4 #columna15-16linea13-16 {
 
 div.hijo3 {
     display: grid;
-    grid-template-columns: repeat(32, 1px);
-    grid-template-rows: repeat(32, 1px);
+    grid-template-columns: repeat(32, 4px);
+    grid-template-rows: repeat(32, 4px);
 
 }
 
@@ -847,8 +847,8 @@ div.hijo3 #columna30fila3 {
 
 div.hijo4 {
     display: grid;
-    grid-template-columns: repeat(32, 1px);
-    grid-template-rows: repeat(32, 1px);
+    grid-template-columns: repeat(32, 4px);
+    grid-template-rows: repeat(32, 4px);
 }
 
 div.hijo4 #columna2-28fila32 {
@@ -1416,8 +1416,8 @@ div.hijo4 #columna7fila13 {
 
 div.hijo2 {
     display: grid;
-    grid-template-columns: repeat(32, 1px);
-    grid-template-rows: repeat(32, 1px);
+    grid-template-columns: repeat(32, 4px);
+    grid-template-rows: repeat(32, 4px);
 }
 
 div.hijo2 #columna1-15fila18-31 {
